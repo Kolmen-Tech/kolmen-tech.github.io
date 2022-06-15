@@ -1,3 +1,4 @@
+![o3logo2021](https://user-images.githubusercontent.com/84222538/173723460-a121e73d-e304-4d5b-abfb-b2a1c595ab11.png)
 ## Kolmen Tech
 ### Introduction
 We just a software company based on Malaysia(previous name as o3softwarehouse). We provide software customazation on different fields, and we developed our own flagship product. Recently we have involved in blockchain development and fintech also. 
