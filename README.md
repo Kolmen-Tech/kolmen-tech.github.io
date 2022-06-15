@@ -26,6 +26,7 @@ Lingkaran TRX, Tun Razak Exchange,
 - Mobile POS
 
 ### Token Coin (cocoa)
+![cocoalogo60p](https://user-images.githubusercontent.com/84222538/173726258-caa12f1c-aa41-447e-ae43-26d46fabf2ec.png)
 Kolmen Tech's **Meme Coin** with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
 
 
