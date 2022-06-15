@@ -17,16 +17,17 @@ Lingkaran TRX, Tun Razak Exchange,
 55188 Kuala Lumpur
 ```
 
-### Our Services
+### Services & Product
 - Android and iOS APP development
 - Company website
 - Windows Application
 - Blockchain DApp 
+- Mobile POS
 
-### Our Token Coin (cocoa)
+### Token Coin (cocoa)
 
 
-### Our precious customers & friends
+### Precious customers & friends
 
 - KLA Tech Sdn Bhd
 - Rentalan Network Solution Sdn Bhd
