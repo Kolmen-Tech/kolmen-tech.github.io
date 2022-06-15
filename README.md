@@ -20,7 +20,7 @@ Lingkaran TRX, Tun Razak Exchange,
 
 ### Services & Product
 - Android and iOS APP development
-- Company website
+- Web Application
 - Windows Application
 - Blockchain DApp 
 - Mobile POS
