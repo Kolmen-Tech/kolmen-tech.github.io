@@ -26,7 +26,7 @@ Lingkaran TRX, Tun Razak Exchange,
 - Mobile POS
 
 ### Token Coin (cocoa)
-Kolmen Tech **Meme Coin** with value. We will treat her like company share, when company earn profit, cocoa will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
+Kolmen Tech's **Meme Coin** with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
 
 
 ### Precious customers & friends
