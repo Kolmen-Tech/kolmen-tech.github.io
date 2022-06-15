@@ -18,6 +18,7 @@ SPACES Level 23, Menara Exchange 106,
 Lingkaran TRX, Tun Razak Exchange, 
 55188 Kuala Lumpur
 ```
+---
 
 ### Services & Product
 - Android and iOS APP development
@@ -26,6 +27,8 @@ Lingkaran TRX, Tun Razak Exchange,
 - Blockchain DApp 
 - Mobile POS
 
+___
+
 ### Token Coin (cocoa)
 Kolmen Tech's **Meme Coin** with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
 
@@ -33,8 +36,7 @@ Kolmen Tech's **Meme Coin** with value. We will treat her like company share, wh
 
 ![cocoalogo60p](https://user-images.githubusercontent.com/84222538/173726258-caa12f1c-aa41-447e-ae43-26d46fabf2ec.png)
 
-
-
+___
 
 ### Precious customers & friends
 - KLA Tech Sdn Bhd
