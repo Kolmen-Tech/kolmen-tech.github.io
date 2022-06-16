@@ -29,6 +29,11 @@ Lingkaran TRX, Tun Razak Exchange,
 
 ___
 
+### Our vision
+Our vision is to create real and lasting value for our customers, provide career development opportunities for our employees, and become a preferred information technology solution provider
+
+___
+
 ### Token Coin (cocoa)
 Kolmen Tech's **Meme Coin** with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
 
