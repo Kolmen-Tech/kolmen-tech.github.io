@@ -31,9 +31,6 @@ ___
 
 ### Our vision
 Our vision is to create real and lasting value for our customers, provide career development opportunities for our employees, and become a preferred information technology solution provider
-- 保持现在开创未来
-- 脚踏实地诚信做事
-- 以人为主同心同德
 
 ___
 
