@@ -1,4 +1,5 @@
 ![o3logo2021](https://user-images.githubusercontent.com/84222538/173723460-a121e73d-e304-4d5b-abfb-b2a1c595ab11.png)
+![cocoalogo60p](https://user-images.githubusercontent.com/84222538/173726258-caa12f1c-aa41-447e-ae43-26d46fabf2ec.png)
 ## Kolmen Tech
 ### Introduction
 We just a software company based on Malaysia (*~~previous name as o3softwarehouse~~*). We provide software customazation on different fields, and we developed our own flagship product. Recently we have involved in blockchain development and fintech also. 
@@ -39,8 +40,6 @@ ___
 Kolmen Tech's **Meme Coin** with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
 
 [More info about cocoa](cocoa.md)
-
-![cocoalogo60p](https://user-images.githubusercontent.com/84222538/173726258-caa12f1c-aa41-447e-ae43-26d46fabf2ec.png)
 
 ___
 
