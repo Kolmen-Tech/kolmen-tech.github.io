@@ -45,11 +45,14 @@ ___
 ### Precious customers & friends
 - KLA Tech Sdn Bhd
 - Rentalan Network Solution Sdn Bhd
+- AnyPay Sdn Bhd
 - PasarayaKU Sdn Bhd
 - Expert Software Asia Sdn Bhd
 - FirePos Sdn Bhd
 - ORiG International Sdn Bhd
+- Good Friends Label Sdn Bhd
 - Matrixmax Systems Sdn Bhd
+- M8 Entertainment
 - ZiZhuting Temple
 - Fayi Temple
 
