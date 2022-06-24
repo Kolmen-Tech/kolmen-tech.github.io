@@ -38,7 +38,7 @@ ___
 ### Token Coin (cocoa)
 Kolmen Tech's **Meme Coin** with value. We will treat her like company share, when company earn profit, we will buy back with higher price, when company need fund to expand and maintain, Yes, we will sell.
 
-[More info about cocoa](https://kolmen-tech.github.io/ergopos/)
+[More info about cocoa](https://kolmen-tech.github.io/cocoacoin/)
 
 ___
 
